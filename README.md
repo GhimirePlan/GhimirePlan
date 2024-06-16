@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Plan Ghimire</h1>
-<h3 align="center">A passionate Engineering student from Nepal</h3>
+<h1 align="center">Hi, I'm Plan Ghimire</h1>
+<h3 align="center">Enthusiastic Electronics Communication and Information Engineering student from Nepal</h3>
 
 - 🔭 I’m currently Studying on **(IOE)Thapathali Campus**
 
