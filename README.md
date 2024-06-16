@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Plan Ghimire</h1>
 <h3 align="center">Enthusiastic Electronics Communication and Information Engineering student from Nepal</h3>
 <img align = "right" width="400" src="https://github.com/GhimirePlan/GhimirePlan/blob/main/coding.gif?raw=true">
+
 - 🔭 I’m currently Studying **Electronics Communication and Information Engineering** on **(IOE)Thapathali Campus**
 
 - 👨‍💻 All of my projects are available at [https://www.plan.com.np/](https://www.plan.com.np/)
