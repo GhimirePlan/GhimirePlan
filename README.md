@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Plan Ghimire</h1>
 <h3 align="center">Enthusiastic Electronics Communication and Information Engineering student from Nepal</h3>
 
-- 🔭 I’m currently Studying on **(IOE)Thapathali Campus**
+- 🔭 I’m currently Studying **Electronics Communication and Information Engineering** on **(IOE)Thapathali Campus**
 
 - 👨‍💻 All of my projects are available at [https://www.plan.com.np/](https://www.plan.com.np/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/planghimire1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="planghimire1" height="30" width="40" /></a>
+<a href="https://twitter.com/PlanGhimire1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="planghimire1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/plan-ghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="plan-ghimire" height="30" width="40" /></a>
 <a href="https://fb.com/plan.com.np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plan.com.np" height="30" width="40" /></a>
 <a href="https://instagram.com/planghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="planghimire" height="30" width="40" /></a>
