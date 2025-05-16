@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.plan.com.np/](https://blog.plan.com.np/)
 
-- 💬 Ask me about **Python, C, C++,Html, Css, JS**
+- 💬 Ask me about **Ml, Python, C, C++, React.js**
 
 - 📫 How to reach me **contact@plan.com.np**
 
