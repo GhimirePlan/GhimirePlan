@@ -1,34 +1,95 @@
-![LOGO](https://github.com/GhimirePlan/GhimirePlan/blob/main/GITHUB%20Banner.png)
-<h1 align="center">Hi, I'm Plan Ghimire</h1>
-<h3 align="center">Enthusiastic Electronics Communication and Information Engineering student from Nepal</h3>
-<img align = "right" width="400" src="https://github.com/GhimirePlan/GhimirePlan/blob/main/coding.gif?raw=true">
+![GitHub Banner](https://github.com/GhimirePlan/GhimirePlan/blob/main/GITHUB%20Banner.png)
 
-- 🔭 I’m currently Studying **Electronics Communication and Information Engineering** on **(IOE)Thapathali Campus**
+<h1 align="center">Hi, I'm Plan Ghimire 👋</h1>
+<h3 align="center">🎓 Electronics Communication and Information Engineering Student | 💻 Developer | 🎨 Designer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.plan.com.np/](https://www.plan.com.np/)
-
-- 📝 I regularly write articles on [https://blog.plan.com.np/](https://blog.plan.com.np/)
-
-- 💬 Ask me about **Ml, Python, C, C++, React.js**
-
-- 📫 How to reach me **contact@plan.com.np**
-
-- 📄 Know about my experiences [https://www.plan.com.np/](https://www.plan.com.np/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/PlanGhimire1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="planghimire1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/plan-ghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="plan-ghimire" height="30" width="40" /></a>
-<a href="https://fb.com/plan.com.np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plan.com.np" height="30" width="40" /></a>
-<a href="https://instagram.com/planghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="planghimire" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.plan.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://blog.plan.com.np/"><img src="https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge&logo=ghost"></a>
+  <a href="mailto:contact@plan.com.np"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" width="400" src="https://github.com/GhimirePlan/GhimirePlan/blob/main/coding.gif?raw=true" alt="Coding GIF">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghimireplan&show_icons=true&locale=en&layout=compact" alt="ghimireplan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghimireplan&show_icons=true&locale=en" alt="ghimireplan" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireplan&" alt="ghimireplan" /></p>
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+- 🔭 Currently pursuing **Electronics Communication and Information Engineering** at **IOE Thapathali Campus**.
+- 🌐 Passionate about integrating technology with creativity.
+- 📝 Regularly writing articles on [blog.plan.com.np](https://blog.plan.com.np/).
+- 💬 Ask me about **Machine Learning, Python, C/C++, React.js**.
+- 📫 Reach me at **contact@plan.com.np**.
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/PlanGhimire1" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PlanGhimire1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://linkedin.com/in/plan-ghimire" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Plan%20Ghimire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://fb.com/plan.com.np" target="_blank"><img src="https://img.shields.io/badge/Facebook-Plan%20Ghimire-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/planghimire" target="_blank"><img src="https://img.shields.io/badge/Instagram-@planghimire-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhimirePlan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhimirePlan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🖼️ 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-3d-contrib.svg)
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhimirePlan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Contact Me
+
+Feel free to reach out for collaborations or just a friendly chat!
+
+- 📧 Email: [contact@plan.com.np](mailto:contact@plan.com.np)
+- 🌐 Website: [www.plan.com.np](https://www.plan.com.np/)
+- 📝 Blog: [blog.plan.com.np](https://blog.plan.com.np/)
+
+---
+
+*This README was generated with ❤️ by Plan Ghimire.*
