@@ -1,4 +1,4 @@
-![LOGO](https://github.com/GhimirePlan/GhimirePlan/blob/main/Black%20&%20Purple%20Gradient%20Modern%20Personal%20LinkedIn%20Banner.png?)
+![LOGO](https://github.com/GhimirePlan/GhimirePlan/blob/main/Black%20&%20Purple%20Gradient%20Modern%20Personal%20LinkedIn%20Banner.png?](https://github.com/GhimirePlan/GhimirePlan/blob/main/GITHUB%20Banner.png))
 <h1 align="center">Hi, I'm Plan Ghimire</h1>
 <h3 align="center">Enthusiastic Electronics Communication and Information Engineering student from Nepal</h3>
 <img align = "right" width="400" src="https://github.com/GhimirePlan/GhimirePlan/blob/main/coding.gif?raw=true">
