@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Plan Ghimire 👋</h1>
 <h3 align="center">🎓 Electronics Communication and Information Engineering Student | 💻 Developer | 🎨 Designer</h3>
-![Profile Views](https://komarev.com/ghpvc/?username=GhimirePlan&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
   <a href="https://www.plan.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
@@ -52,18 +51,17 @@
 
 ---
 
+## 🖼️ 3D Contribution Graph
+
+![3D Contributions](profile-3d-contrib/profile-green-animate.svg)
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GhimirePlan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhimirePlan&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-## 🖼️ 3D Contribution Graph
-
-![3D Contributions](profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
