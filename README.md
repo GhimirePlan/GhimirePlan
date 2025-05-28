@@ -26,8 +26,9 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/PlanGhimire1" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PlanGhimire1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/plan-ghimire" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Plan%20Ghimire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/PlanGhimire1" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PlanGhimire1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
   
 
 
