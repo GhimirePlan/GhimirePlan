@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi, I'm Plan Ghimire 👋</h1>
 <h3 align="center">🎓 Electronics Communication and Information Engineering Student | 💻 Developer | 🎨 Designer</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=GhimirePlan&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
   <a href="https://www.plan.com.np/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
@@ -28,9 +29,8 @@
 <p align="left">
   <a href="https://twitter.com/PlanGhimire1" target="_blank"><img src="https://img.shields.io/badge/Twitter-@PlanGhimire1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://linkedin.com/in/plan-ghimire" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Plan%20Ghimire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://fb.com/plan.com.np" target="_blank"><img src="https://img.shields.io/badge/Facebook-Plan%20Ghimire-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/planghimire" target="_blank"><img src="https://img.shields.io/badge/Instagram-@planghimire-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+  
+
 
 ---
 
@@ -75,21 +75,4 @@
 
 ---
 
-## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out for collaborations or just a friendly chat!
-
-- 📧 Email: [contact@plan.com.np](mailto:contact@plan.com.np)
-- 🌐 Website: [www.plan.com.np](https://www.plan.com.np/)
-- 📝 Blog: [blog.plan.com.np](https://blog.plan.com.np/)
-
----
-
-*This README was generated with ❤️ by Plan Ghimire.*
