@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghimireplan&show_icons=true&locale=en" alt="ghimireplan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghimireplan&" alt="ghimireplan" /></p>
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
