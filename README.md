@@ -27,7 +27,7 @@ My work includes **C/C++ development, Python-based systems and network modeling,
 - **Programming & systems:** C, C++, Python, Git, Linux, computer networking, testing
 - **AI & application development:** PyTorch, Hugging Face Transformers, Django, React, JavaScript
 
-### Ongoing work
+### Driven by Curiosity
 
 **[Network Digital Twin Confidence Framework](https://github.com/GhimirePlan/network-digital-twin-confidence)** · *Python · Networking · Batfish · Testing*  
 *In development.* Building a workflow that turns network configuration and topology evidence into digital-twin models and policy checks, with results traceable to their source files.
