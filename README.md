@@ -36,7 +36,7 @@ My work includes **C/C++ development, Python-based systems and network modeling,
 ### Recently Published Research
 
 **[Bilingual fake-news detection in low-resource media: A Transformer-based framework for Nepali–English content](https://doi.org/10.3126/jiee.v8i1.79843)**  
-*Co-author · Journal of Innovations in Engineering Education (JIEE), 2025*
+*Co-author · Journal of Innovations in Engineering Education (JIEE), 2026*
 
 Research on Nepali–English text classification using **XLM-RoBERTa** and **SHAP-based explainability**.  
 [Paper](https://doi.org/10.3126/jiee.v8i1.79843) · [Source code](https://github.com/GhimirePlan/AI-Powered-News-Authenticity-Detector) · [Model](https://huggingface.co/planghimire/nepali-english-fake-news-detector)
